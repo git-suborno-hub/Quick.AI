@@ -5,6 +5,12 @@ It provides seamless **user authentication** and a **billing system** powered by
 
 ---
 
+<p align="center">
+  <a href="https://quick-ai-frontend-lemon.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live%20Demo-Insider%20Jobs-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
 ## Features
 
 - **Authentication with Clerk** – Secure login/signup for users  
